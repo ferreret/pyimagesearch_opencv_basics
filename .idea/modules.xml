@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/02-gettings-settings-pixels.iml" filepath="$PROJECT_DIR$/.idea/02-gettings-settings-pixels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-drawing/.idea/03-drawing.iml" filepath="$PROJECT_DIR$/../03-drawing/.idea/03-drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-Translation/.idea/04-Translation.iml" filepath="$PROJECT_DIR$/../04-Translation/.idea/04-Translation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-rotate/.idea/05-rotate.iml" filepath="$PROJECT_DIR$/../05-rotate/.idea/05-rotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-resizing/.idea/06-resizing.iml" filepath="$PROJECT_DIR$/../06-resizing/.idea/06-resizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-flipping/.idea/07-flipping.iml" filepath="$PROJECT_DIR$/../07-flipping/.idea/07-flipping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-cropping/.idea/08-cropping.iml" filepath="$PROJECT_DIR$/../08-cropping/.idea/08-cropping.iml" />
+    </modules>
+  </component>
+</project>
