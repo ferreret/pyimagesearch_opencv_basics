@@ -12,6 +12,10 @@
     <orderEntry type="module" module-name="06-resizing" />
     <orderEntry type="module" module-name="07-flipping" />
     <orderEntry type="module" module-name="08-cropping" />
+    <orderEntry type="module" module-name="09-image-arithmetic" />
+    <orderEntry type="module" module-name="10-bitwise-operation" />
+    <orderEntry type="module" module-name="11-masking" />
+    <orderEntry type="module" module-name="12-split-merge" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />

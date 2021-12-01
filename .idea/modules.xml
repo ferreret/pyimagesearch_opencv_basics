@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/../06-resizing/.idea/06-resizing.iml" filepath="$PROJECT_DIR$/../06-resizing/.idea/06-resizing.iml" />
       <module fileurl="file://$PROJECT_DIR$/../07-flipping/.idea/07-flipping.iml" filepath="$PROJECT_DIR$/../07-flipping/.idea/07-flipping.iml" />
       <module fileurl="file://$PROJECT_DIR$/../08-cropping/.idea/08-cropping.iml" filepath="$PROJECT_DIR$/../08-cropping/.idea/08-cropping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09-image-arithmetic/.idea/09-image-arithmetic.iml" filepath="$PROJECT_DIR$/../09-image-arithmetic/.idea/09-image-arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-bitwise-operation/.idea/10-bitwise-operation.iml" filepath="$PROJECT_DIR$/../10-bitwise-operation/.idea/10-bitwise-operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11-masking/.idea/11-masking.iml" filepath="$PROJECT_DIR$/../11-masking/.idea/11-masking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12-split-merge/.idea/12-split-merge.iml" filepath="$PROJECT_DIR$/../12-split-merge/.idea/12-split-merge.iml" />
     </modules>
   </component>
 </project>
